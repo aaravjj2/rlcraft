@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "mob_key": "demo:mob_1",
+      "dimension": "overworld",
+      "biome": "forest",
+      "conditions": {
+        "night": true
+      }
+    },
+    {
+      "mob_key": "demo:mob_2",
+      "dimension": "nether",
+      "biome": "wastes",
+      "conditions": {
+        "light_lt": 7
+      }
+    }
+  ],
+  "note": "SYNTHETIC DEMO DATA"
+}

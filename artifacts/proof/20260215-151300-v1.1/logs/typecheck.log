@@ -1,0 +1,4 @@
+
+> web@0.0.1 typecheck /workspace/rlcraft/apps/web
+> tsc --noEmit
+
