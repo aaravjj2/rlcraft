@@ -1,0 +1,23 @@
+for f in $(ls packages/db/migrations/*.sql | sort); do \
+	echo "Applying $f"; \
+	PGPASSWORD=postgres psql -h localhost -U postgres -d rlc -v ON_ERROR_STOP=1 -f $f; \
+done
+Applying packages/db/migrations/001_init.sql
+CREATE EXTENSION
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX

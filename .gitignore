@@ -1,0 +1,15 @@
+node_modules/
+.pnpm-store/
+__pycache__/
+*.pyc
+.venv/
+playwright-report/
+apps/web/test-results/
+apps/web/.playwright/
+data/raw_builds/
+data/derived/
+artifacts/derived/
+!artifacts/proof/
+
+artifacts/demo.db
+apps/web/dist/

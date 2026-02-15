@@ -1,0 +1,242 @@
+[
+  {
+    "recipe_key": "demo:recipe_1",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_2",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_2",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_3",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_3",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_4",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_14",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_4",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_5",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_5",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_6",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_16",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_6",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_7",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_17",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_7",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_8",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_18",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_8",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_9",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_19",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_9",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_10",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_20",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_10",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_1",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_11",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_11",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_2",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_12",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_12",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_3",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_13",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_13",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_4",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_14",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_14",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_5",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_15",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "recipe_key": "demo:recipe_15",
+    "type": "crafting",
+    "inputs": [
+      {
+        "item_key": "demo:item_6",
+        "qty": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item_key": "demo:item_16",
+        "qty": 1
+      }
+    ]
+  }
+]

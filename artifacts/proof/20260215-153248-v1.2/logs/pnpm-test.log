@@ -1,0 +1,14 @@
+
+> web@0.0.1 test /workspace/rlcraft/apps/web
+> vitest run
+
+
+ RUN  v2.1.9 /workspace/rlcraft/apps/web
+
+ ✓ src/App.test.tsx (1 test) 193ms
+
+ Test Files  1 passed (1)
+      Tests  1 passed (1)
+   Start at  15:32:58
+   Duration  3.62s (transform 455ms, setup 118ms, collect 698ms, tests 193ms, environment 1.17s, prepare 341ms)
+

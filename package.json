@@ -1,0 +1,8 @@
+{
+  "name": "rlc-kb",
+  "private": true,
+  "scripts": {
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  }
+}
